@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 👋, i'm Rikughi
+
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rifkhair-khairur-mustaghisin/)
+
+# Stats 📊
+
+[![rikughi's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=rikughi&show_icons=true&count_private=true&theme=dark#gh-dark-mode-only)](https://github.com/rikughi/rikughi#gh-dark-mode-only)
+[![rikughi's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=rikughi&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/rikughi/rikughi#gh-light-mode-only)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rikughi&layout=compact)
+
 
 <!--
 **RIKUGHI/rikughi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
