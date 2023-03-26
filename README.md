@@ -25,6 +25,10 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rikughi&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
+## 🐍 Eating away my contributions😭... Help!
+
+![snake gif](https://raw.githubusercontent.com/rikughi/rikughi/output/github-contribution-grid-snake.svg)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=rikughi&icon=0&color=0)](https://visitcount.itsvg.in)
 
